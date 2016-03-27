@@ -1,4 +1,4 @@
-package edu.ccsf.yli464.cs110b.courseregistration;
+package com.github.javaccsf2016.courseregistration;
 
 public class Student {
 	private String name;
