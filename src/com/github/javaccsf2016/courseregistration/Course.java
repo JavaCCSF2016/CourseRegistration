@@ -48,7 +48,7 @@ public class Course {
 	
 	public boolean dropStudent(Student s) {
 		for (int i = 0; i < this.roster.length; i++) {
-			if (this.roster[i].getID() == s.getID()) {
+			if (this.roster[i].getID().equals(s.getID())) {
 				this.roster[i] = null;
 				return true;
 			}
