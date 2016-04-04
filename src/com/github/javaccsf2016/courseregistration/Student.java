@@ -1,3 +1,4 @@
+//Copyright (c) 2016 LeoYulin & califoxco (Jiaming Yang)
 package com.github.javaccsf2016.courseregistration;
 
 public class Student {
